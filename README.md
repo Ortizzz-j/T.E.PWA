@@ -1,5 +1,5 @@
 # T.E.PWA
-Text editor but its just another one
+Text editor but its just another one. It is a text editor with javascript syntax highlighting.
 
 ## Challenges
 
